@@ -1,12 +1,12 @@
-# 📈 Baobab Company Sales Performance Dashboard (Excel)
+# Baobab Company Sales Performance Dashboard (Excel)
 
-## 🎯 Project Overview
+## Project Overview
 
 This project focuses on operational data analysis and visualization for **Baobab Company**, a wood industry firm. The primary goal was to create an interactive Microsoft Excel dashboard to monitor and analyze sales volume performance against a key company objective: **to increase the monthly sales volume by 5%**.
 
 This dashboard serves as a vital tool for Sales Managers and Data Analysts to quickly identify sales trends, regional contributions, and individual sales representative performance.
 
-## 📊 Key Performance Indicators (KPIs) and Objectives
+## Key Performance Indicators (KPIs) and Objectives
 
 The analysis and dashboard were designed to track the following metrics required by the business:
 
@@ -16,7 +16,7 @@ The analysis and dashboard were designed to track the following metrics required
 4.  **Average Products Purchased per Customer:** Analyzing customer engagement and order value.
 5.  **Sales Units by Product Category and Sales Rep:** Evaluating sales representative efficiency and product specialization.
 
-## 🛠️ Technology and Methodology
+## Technology and Methodology
 
 ### 1. Tools Used
 * **Microsoft Excel:** Primary tool for data manipulation, analysis (Pivot Tables), and visualization.
@@ -34,7 +34,7 @@ The final dashboard is structured to provide an immediate view of the most criti
 * Average Customer Order Size (Bar Chart)
 * Sales Unit Distribution by Category (Donut/Pie Chart)
 
-## ⭐ Key Insights and Business Recommendations
+## Key Insights and Business Recommendations
 
 Based on the operational analysis, the following insights and recommendations were generated:
 
